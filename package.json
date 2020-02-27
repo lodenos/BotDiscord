@@ -1,0 +1,23 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "BotDiscord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodenos/BotDiscord.git"
+  },
+  "author": "Nikolaii Lodenos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lodenos/BotDiscord/issues"
+  },
+  "homepage": "https://github.com/lodenos/BotDiscord#readme",
+  "devDependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.1"
+  }
+}
